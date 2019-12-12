@@ -1,0 +1,16 @@
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\bin\Debug\netcoreapp2.2\CoreTestApp.deps.json
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\bin\Debug\netcoreapp2.2\CoreTestApp.runtimeconfig.json
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\bin\Debug\netcoreapp2.2\CoreTestApp.runtimeconfig.dev.json
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\bin\Debug\netcoreapp2.2\CoreTestApp.dll
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.csproj.CoreCompileInputs.cache
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.RazorAssemblyInfo.cache
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.RazorAssemblyInfo.cs
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.AssemblyInfoInputs.cache
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.AssemblyInfo.cs
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.RazorTargetAssemblyInfo.cache
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\bin\Debug\netcoreapp2.2\CoreTestApp.pdb
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.Properties.Resources.resources
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.csproj.GenerateResource.cache
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.dll
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.pdb
+C:\Local Disk D_8720191251\Archive\.NetCoreTestProject\CoreTestApp\CoreTestApp\obj\Debug\netcoreapp2.2\CoreTestApp.csprojAssemblyReference.cache
